@@ -15,6 +15,6 @@ public:
             }
         }
 
-        return st;   
+        return st;
     }
 };
